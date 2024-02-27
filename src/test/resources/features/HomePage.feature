@@ -17,5 +17,5 @@ Feature: Home Page validations for Halo powered website
     Then I should be able to submit the details successfully
 
     Examples:
-      | name       | emailAddress | message  |
-      | Abram Khan | al@gmail.com | Not spam |
+      | name        | emailAddress         | message  |
+      | Rajat Goyal | alpha17495@gmail.com | Not spam |
